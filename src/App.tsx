@@ -207,20 +207,6 @@ function App() {
               </div>
             </div>
 
-            <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-green-600">
-              <div className="flex items-start gap-4">
-                <div className="bg-green-100 p-3 rounded-lg">
-                  <BookOpen className="text-green-600" size={24} />
-                </div>
-                <div className="flex-1">
-                  <h3 className="text-2xl font-bold text-slate-900">Research Associate</h3>
-                  <p className="text-green-600 font-semibold">Indian Institute of Technology Indore</p>
-                  <p className="text-slate-500 mb-3">May 2023 – November 2023</p>
-                  <p className="text-slate-600">NSM project: "Diagnosis of Alzheimer's disease using brain imaging data"</p>
-                </div>
-              </div>
-            </div>
-
             <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-orange-600">
               <div className="flex items-start gap-4">
                 <div className="bg-orange-100 p-3 rounded-lg">
@@ -236,6 +222,22 @@ Management And Technology, Raipur</p>
                 </div>
               </div>
             </div>
+            
+            <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-green-600">
+              <div className="flex items-start gap-4">
+                <div className="bg-green-100 p-3 rounded-lg">
+                  <BookOpen className="text-green-600" size={24} />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-2xl font-bold text-slate-900">Research Associate</h3>
+                  <p className="text-green-600 font-semibold">Indian Institute of Technology Indore</p>
+                  <p className="text-slate-500 mb-3">May 2023 – November 2023</p>
+                  <p className="text-slate-600">NSM project: "Diagnosis of Alzheimer's disease using brain imaging data"</p>
+                </div>
+              </div>
+            </div>
+
+            
           </div>
         </div>
       </section>
