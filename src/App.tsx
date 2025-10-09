@@ -500,7 +500,7 @@ function App() {
                     className="flex items-center gap-3 p-4 bg-white/10 rounded-lg hover:bg-white/20 transition-all duration-300"
                   >
                     <Github size={24} />
-                    <span>@simplyishu</span>
+                    <span>@rsharma2612</span>
                     <ChevronRight className="ml-auto" size={20} />
                   </a>
 
