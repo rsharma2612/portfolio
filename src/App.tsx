@@ -244,11 +244,23 @@ Management And Technology, Raipur</p>
                 </div>
                 <div className="flex-1">
                   <h3 className="text-2xl font-bold text-slate-900">Assistant Professor</h3>
-                  <p className="text-green-600 font-semibold">Bharti College of Engineering & Technology, Durg, Chhattis-
-garh, India 491001.</p>
+                  <p className="text-green-600 font-semibold">Bharti College of Engineering & Technology, Durg, Chhattisgarh, India 491001.</p>
                   <p className="text-slate-500 mb-3">January 2017 – July 2019</p>
-                  <p className="text-slate-600">Department of Electronics and Communication En-
-gineering,</p>
+                  <p className="text-slate-600">Department of Electronics and Communication Engineering,</p>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-orange-600">
+              <div className="flex items-start gap-4">
+                <div className="bg-orange-100 p-3 rounded-lg">
+                  <Briefcase className="text-orange-600" size={24} />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-2xl font-bold text-slate-900">Proterm Lecturer</h3>
+                  <p className="text-orange-600 font-semibold">Bharti College of Engineering & Technology, Durg, Chhattisgarh, India 491001.</p>
+                  <p className="text-slate-500 mb-3">June 2011 – December 2016</p>
+                  <p className="text-slate-600">Department of Electronics and Communication Engineering</p>
                 </div>
               </div>
             </div>
