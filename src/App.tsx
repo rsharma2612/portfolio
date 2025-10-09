@@ -222,7 +222,7 @@ Management And Technology, Raipur</p>
                 </div>
               </div>
             </div>
-            
+
             <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-green-600">
               <div className="flex items-start gap-4">
                 <div className="bg-green-100 p-3 rounded-lg">
@@ -233,6 +233,22 @@ Management And Technology, Raipur</p>
                   <p className="text-green-600 font-semibold">Indian Institute of Technology Indore</p>
                   <p className="text-slate-500 mb-3">May 2023 – November 2023</p>
                   <p className="text-slate-600">NSM project: "Diagnosis of Alzheimer's disease using brain imaging data"</p>
+                </div>
+              </div>
+            </div>
+
+             <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 border-l-4 border-green-600">
+              <div className="flex items-start gap-4">
+                <div className="bg-green-100 p-3 rounded-lg">
+                  <BookOpen className="text-green-600" size={24} />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-2xl font-bold text-slate-900">Assistant Professor</h3>
+                  <p className="text-green-600 font-semibold">Bharti College of Engineering & Technology, Durg, Chhattis-
+garh, India 491001.</p>
+                  <p className="text-slate-500 mb-3">January 2017 – July 2019</p>
+                  <p className="text-slate-600">Department of Electronics and Communication En-
+gineering,</p>
                 </div>
               </div>
             </div>
