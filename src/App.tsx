@@ -228,7 +228,9 @@ function App() {
                 </div>
                 <div className="flex-1">
                   <h3 className="text-2xl font-bold text-slate-900">Assistant Professor</h3>
-                  <p className="text-orange-600 font-semibold">SSIPMT Raipur</p>
+                  <p className="text-orange-600 font-semibold">Shri Shankaracharya Institute Of Professional
+
+Management And Technology, Raipur</p>
                   <p className="text-slate-500 mb-3">February 2024 – July 2024</p>
                   <p className="text-slate-600">Department of Electronics and Telecommunication Engineering</p>
                 </div>
